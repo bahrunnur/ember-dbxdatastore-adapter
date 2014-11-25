@@ -1,0 +1,3 @@
+describe('DBXDSAdapter#updateRecord', function () {
+
+});

@@ -1,0 +1,3 @@
+describe('DBXDSAdapter#find', function () {
+
+});

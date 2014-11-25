@@ -1,0 +1,33 @@
+{
+  "name": "ember-dbxdatastore-adapter",
+  "version": "0.0.1",
+  "homepage": "https://github.com/bahrunnur/ember-dbxdatastore-adapter",
+  "authors": [
+    "Bahrunnur <bahrunnur20@gmail.com>"
+  ],
+  "description": "Ember Data Adapter for Dropbox Datastore API",
+  "main": "ember-dbxdatastore-adapter.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "ember",
+    "ember-data",
+    "dropbox",
+    "Datastore",
+    "Datastore API"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "spec"
+  ],
+  "dependencies": {
+    "ember": "~1.8.1",
+    "ember-data": "~1.0.0-beta.11"
+  }
+}
